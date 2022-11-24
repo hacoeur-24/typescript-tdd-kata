@@ -6,7 +6,6 @@ var path = require('path');
 var fs = require('fs');
 import {instance, when, spy } from 'ts-mockito';
 
-import { Console, exception } from "console";
 import { endianness } from "os";
 import { memoryUsage } from "process";
 import { fileURLToPath } from "url";

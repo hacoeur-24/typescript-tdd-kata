@@ -1,4 +1,4 @@
-import { Phrase } from "./Phrase";
+import { Phrase } from "./phrase";
 
 export class PhraseStub extends Phrase{
   constructor(phrase:string){
